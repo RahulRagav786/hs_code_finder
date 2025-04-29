@@ -1,0 +1,6 @@
+streamlit
+pandas
+requests
+fuzzywuzzy
+python-Levenshtein
+google-cloud-aiplatform
